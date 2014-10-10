@@ -1,3 +1,4 @@
+{% if not current_page.is_home %}
 {% for ance in ancestors %}
 <li>
 	{% if not forloop.last %}
@@ -7,3 +8,4 @@
 	{% endif %}
 </li>
 {% endfor %}
+{% endif %}

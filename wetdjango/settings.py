@@ -144,7 +144,8 @@ INSTALLED_APPS = (
     'djangocms_teaser',
     'djangocms_video',
     'reversion',
-    'wetdjango'
+    'wetdjango',
+    'wetdjango.apps.alerts',
 )
 
 LANGUAGES = (

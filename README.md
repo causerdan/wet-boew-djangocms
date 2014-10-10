@@ -10,5 +10,5 @@ This project will take the 4.0.6 version of the Web Experience Toolkit and integ
 
 * Add translation fields into template
 * Start creating Django CMS plugins into text input
-	* Alerts
+	* Alerts -- DONE!
 	* Tabs

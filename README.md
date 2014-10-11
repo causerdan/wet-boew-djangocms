@@ -15,11 +15,12 @@ Django 1.6.7 used with Django CMS 3.0.6
 
 ###Planned Plugins
 * Alerts -- Add colasable
-* Tabs - INtegrate into the uo to allow multipe placeholder style setup
+* Tabs - Integrate into the uo to allow multipe placeholder style setup
 * Tabs - Carosel
 * Tables
 * Twitter emblem
 * Equal Height - Figure out how we will integrate
+* Multimedia Player
 * Calendar of Events
 * Charts
 * Footnotes

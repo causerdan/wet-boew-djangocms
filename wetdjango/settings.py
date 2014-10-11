@@ -146,6 +146,7 @@ INSTALLED_APPS = (
     'reversion',
     'wetdjango',
     'wetdjango.apps.alerts',
+    'wetdjango.apps.tabs',
 )
 
 LANGUAGES = (
